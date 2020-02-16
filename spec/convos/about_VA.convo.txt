@@ -1,0 +1,7 @@
+about_VA
+
+#me
+UTT_INTENT_ABOUT_VA
+
+#bot
+INTENT about_VA

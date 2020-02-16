@@ -1,0 +1,7 @@
+greetings
+
+#me
+UTT_INTENT_GREETINGS
+
+#bot
+INTENT greetings

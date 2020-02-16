@@ -1,0 +1,7 @@
+turn_down
+
+#me
+UTT_INTENT_TURN_DOWN
+
+#bot
+INTENT turn_down

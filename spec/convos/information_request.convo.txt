@@ -1,0 +1,7 @@
+information_request
+
+#me
+UTT_INTENT_INFORMATION_REQUEST
+
+#bot
+INTENT information_request

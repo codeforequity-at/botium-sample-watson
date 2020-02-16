@@ -1,0 +1,7 @@
+phone
+
+#me
+UTT_INTENT_PHONE
+
+#bot
+INTENT phone

@@ -1,0 +1,7 @@
+compound_questions
+
+#me
+UTT_INTENT_COMPOUND_QUESTIONS
+
+#bot
+INTENT compound_questions

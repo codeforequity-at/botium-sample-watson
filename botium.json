@@ -1,0 +1,11 @@
+{
+  "botium": {
+    "Capabilities": {
+      "PROJECTNAME": "my-first-botium-project",
+      "CONTAINERMODE": "watson",
+      "WATSON_USER": "...",
+      "WATSON_PASSWORD": "...",
+      "WATSON_WORKSPACE_ID": "..."
+    }
+  }
+}

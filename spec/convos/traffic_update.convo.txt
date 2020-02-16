@@ -1,0 +1,7 @@
+traffic_update
+
+#me
+UTT_INTENT_TRAFFIC_UPDATE
+
+#bot
+INTENT traffic_update

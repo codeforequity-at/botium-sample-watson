@@ -1,0 +1,7 @@
+capabilities
+
+#me
+UTT_INTENT_CAPABILITIES
+
+#bot
+INTENT capabilities

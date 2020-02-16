@@ -1,0 +1,7 @@
+not_specified
+
+#me
+UTT_INTENT_NOT_SPECIFIED
+
+#bot
+INTENT not_specified

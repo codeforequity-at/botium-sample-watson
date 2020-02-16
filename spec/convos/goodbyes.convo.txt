@@ -1,0 +1,7 @@
+goodbyes
+
+#me
+UTT_INTENT_GOODBYES
+
+#bot
+INTENT goodbyes

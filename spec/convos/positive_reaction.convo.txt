@@ -1,0 +1,7 @@
+positive_reaction
+
+#me
+UTT_INTENT_POSITIVE_REACTION
+
+#bot
+INTENT positive_reaction

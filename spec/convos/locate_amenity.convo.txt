@@ -1,0 +1,7 @@
+locate_amenity
+
+#me
+UTT_INTENT_LOCATE_AMENITY
+
+#bot
+INTENT locate_amenity

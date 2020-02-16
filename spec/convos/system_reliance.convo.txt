@@ -1,0 +1,7 @@
+system_reliance
+
+#me
+UTT_INTENT_SYSTEM_RELIANCE
+
+#bot
+INTENT system_reliance

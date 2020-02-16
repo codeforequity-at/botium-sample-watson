@@ -1,0 +1,7 @@
+turn_on
+
+#me
+UTT_INTENT_TURN_ON
+
+#bot
+INTENT turn_on

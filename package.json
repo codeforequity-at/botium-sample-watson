@@ -1,0 +1,12 @@
+{
+  "name": "botium-sample-watson",
+  "version": "1.0.0",
+  "scripts": {
+    "emulator": "botium-cli emulator",
+    "import": "botium-cli watsonimport watson-intents --convos spec/convos",
+    "test": "botium-cli run --convos spec/convos"
+  },
+  "dependencies": {
+    "botium-cli": "0.0.65"
+  }
+}

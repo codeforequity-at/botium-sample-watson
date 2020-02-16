@@ -1,0 +1,7 @@
+selections
+
+#me
+UTT_INTENT_SELECTIONS
+
+#bot
+INTENT selections

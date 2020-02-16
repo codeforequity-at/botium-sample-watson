@@ -1,0 +1,7 @@
+duplicate_user_example_1
+
+#me
+UTT_INTENT_DUPLICATE_USER_EXAMPLE_1
+
+#bot
+INTENT duplicate_user_example_1

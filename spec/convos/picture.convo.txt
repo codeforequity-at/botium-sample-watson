@@ -1,0 +1,7 @@
+picture
+
+#me
+UTT_INTENT_PICTURE
+
+#bot
+INTENT picture
